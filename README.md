@@ -1,2 +1,3 @@
-# References
-Cheat sheets and notes
+# 📖 Reference - Cheat Sheets and Notes
+
+This is my collection of cheat sheets and notes
